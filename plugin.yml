@@ -1,0 +1,13 @@
+name: ATillionArrows
+version: 0.0.1
+description: A block logging plugin for the people
+author: TilionDC
+website: dev.bukkit.org
+ 
+main: me.tiliondc.Plugin
+database: false
+
+commands:
+  book:
+    description: Gets you the book of babylonians
+    usage: /book to give you the book to use
